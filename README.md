@@ -564,7 +564,6 @@ Here is the Datafeed Object. Datafeed must of type `IBasicDataFeed` otherwise pr
 ```typescript
 this.Datafeed = 
       {
-        
         onReady: cb => {
           console.log('Inside on ready');
             setTimeout(() => cb(this.config), 0);
@@ -865,8 +864,6 @@ updateBar(data, sub) {
     this.socket.emit('SubRemove', {subs: [sub.channelString]})
     this._subscriptions.splice(subIndex, 1)
    }
-  
-
 }
 
 ```
