@@ -1,5 +1,5 @@
 # TradingView JS API Intigration Instructions
-
+# Hi, I am Diamond
 ### 1. Create Angular Project
 `ng new tradingViewAngular`
 
