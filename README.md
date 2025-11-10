@@ -23,7 +23,6 @@ Copy `charting_library`'s `datafeeds` and `charting_library` folders to `src/ass
     "assets/datafeeds/udf/src"
   ]
 }
-
 ```
 
 ### 4. Update `index.html` to add `datafeeds`
